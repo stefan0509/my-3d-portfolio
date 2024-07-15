@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I specialize in developing robust and scalable software solutions",
+    title: "I specialize in developing scalable software solutions",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -76,7 +76,7 @@ export const projects = [
     des: "Explore the wonders Generative AI by summarizing articles easily - using React J.S and Redux",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/RayMoham/Ai_Summarizer-App",
   },
   {
     id: 2,
