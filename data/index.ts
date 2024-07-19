@@ -125,34 +125,29 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rayan was quick to learn our technology stack on the job, and could be counted on to deliver quality contributions to our project. He collaborated closely with his peers, working through problems and testing approaches to build innovative and intuitive solutions.",
+    name: "Kris Wright",
+    title: "Strategic Advisor - Digital Innnovations",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rayan is an exceptional backend developer who had no prior experience with Node.js or SQL when he first joined our team. Despite this, he quickly proved himself to be an extremely talented developer with an incredible aptitude for these technologies.Throughout our time working together, Rayan consistently impressed us with his ability to write efficient Node.js endpoints and optimized SQL queries. His dedication to his craft and meticulous attention to detail is unparalleled, making him a valuable asset to any development team.",
+    name: "Kavin Gnanapandithan",
+    title: "Software Developer - Worked in same team ",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "What sets Rayan apart from others is his ability to quickly learn and apply new skills. Despite being completely new to Node.js and SQL, he was able to write scalable and maintainable backend systems that were critical to the success of our web applications. Rayan's ability to take complex requirements and break them down into manageable tasks was particularly impressive, enabling us to complete projects on time and within budget. Rayan's passion for backend development is evident in the quality of his work. He is always up to date with the latest technologies and techniques, and his enthusiasm for learning and improving is contagious. His dedication to writing clean and concise code is an inspiration to others on the team.",
+    name: "Don Jalali",
+    title: "Senior Systems Developer - TTC",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Collaborating with Rayan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rayan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rayan is the ideal partner.",
+    name: "Salene Xu",
+    title: "Illuminate Universe - Student Project Director",
   },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
+ 
 ];
 
 export const companies = [
@@ -168,11 +163,23 @@ export const companies = [
     img: "/app.svg",
     nameImg: "/appName.svg",
   },
+   {
+    id: 2,
+    name: "TTC",
+    img: "/app.svg",
+    nameImg: "/appName.svg",
+  },
+   {
+    id: 2,
+    name: "FINTRAC",
+    img: "/app.svg",
+    nameImg: "/appName.svg",
+  },
   {
     id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
+    name: "Radical AI",
+    img: "https://media.licdn.com/dms/image/D4D0BAQFM2yEFiYZfew/company-logo_200_200/0/1710708108304/radicalai_li_logo?e=1729728000&v=beta&t=6rSLHoH_ZfkkPvXkKoFeHsoHKWpGcRgYksW0kRA9mxc",
+    nameImg: "/Radical.svg",
   },
   {
     id: 4,
@@ -183,6 +190,18 @@ export const companies = [
   {
     id: 5,
     name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+   {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+   {
+    id: 5,
+    name: "Illuminate Universe",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
