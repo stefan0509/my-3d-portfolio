@@ -163,24 +163,6 @@ export const companies = [
     img: "/app.svg",
     nameImg: "/appName.svg",
   },
-   {
-    id: 2,
-    name: "TTC",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-   {
-    id: 2,
-    name: "FINTRAC",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "Radical AI",
-    img: "https://media.licdn.com/dms/image/D4D0BAQFM2yEFiYZfew/company-logo_200_200/0/1710708108304/radicalai_li_logo?e=1729728000&v=beta&t=6rSLHoH_ZfkkPvXkKoFeHsoHKWpGcRgYksW0kRA9mxc",
-    nameImg: "/Radical.svg",
-  },
   {
     id: 4,
     name: "stream",
@@ -193,46 +175,68 @@ export const companies = [
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
+  
    {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    id: 2,
+    name: "FINTRAC",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHEisW_oVmuRw/company-logo_200_200/0/1633618666213/fintrac_canafe_logo?e=2147483647&v=beta&t=BdLz_noGsyXkPWSaAhouFA0KQX8EUPMyV0G7OoKcILI",
+    nameImg: "fintrac.svg",
   },
+  {
+    id: 3,
+    name: "Radical AI",
+    img: "https://media.licdn.com/dms/image/D4D0BAQFM2yEFiYZfew/company-logo_200_200/0/1710708108304/radicalai_li_logo?e=1729728000&v=beta&t=6rSLHoH_ZfkkPvXkKoFeHsoHKWpGcRgYksW0kRA9mxc",
+    nameImg: "/Radical.svg",
+  },
+  
+
    {
     id: 5,
     name: "Illuminate Universe",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+    img: "https://media.licdn.com/dms/image/C560BAQGbYgItoGiaBw/company-logo_100_100/0/1630647802769/illuminateuniverse_logo?e=1729728000&v=beta&t=NhEdpvhcFTr-Z8Enq6EEJKsGRzBvSLPWMNthJuj1Aj8",
+    nameImg: "/illuminate.svg",
+  },
+   {
+    id: 2,
+    name: "TTC",
+    img: "https://banner2.cleanpng.com/20180823/oot/kisspng-toronto-transit-commission-rapid-transit-toronto-s-ttc-logo-svg-vector-amp-png-transparent-vector-5b7e8b8db19cc3.6340841915350199177275.jpg",
+    nameImg: "/TTC.svg",
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Full-Stack Developer (FINTRAC)",
+    desc: "Utilized Node, Express, and MongoDB to create various app projects - including government security control integration. Developed user-friendly and responsive interfaces for the application using HTML, CSS, and JavaScript. Utilized design thinking abilities to incorporate Miro wireframing and detect underlying business and technological concerns.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "System Software Developer (TTC)",
+    desc: " Developed robust and scalable systems using .Net 6 and C# to meet business requirements. Grievances Application: a milestone project broken into 3 responsive web applicationsthat constructed TTC database, data, cataloging andsecurity software. Built and maintained 3 responsive web applications, collectively serving over 3,000 users monthly. Implemented ASP.NET features that led to a 15% increase in user engagement.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "AI Engineer (Radical AI)",
+    desc: "I leveraged technologies such as OpenAI and Google Gemini to develop ReX, an AI Coach who serves as a steadfast career companion for learners Skills: Artificial Intelligence (AI) · Software Infrastructure · Open-Source Software · Machine Learning · Natural Language Processing (NLP) · Python (Programming Language) · TensorFlow",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Firmware Engineer -Waterloo Rocketry)",
+    desc: "Actively contributed to the Electrical and Software subsystems as a member. Utilized KiCAD to create PCB designs. Programmed data acquisition software using Python. Tested Firmware embedded system utilizing C++, Assembly",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 4,
+    title: "Software Engineer - Xamarin Group",
+    desc: "C/C# syntax app creation through display panelling. Authourized a MERN Stack Web-user interface, and modified integer calculation features. Created a fully -Operational PIzza App Module. C# - Worked with Scrum/Agile to deliver quality products, driving collaboration and continuous improvement. Created an Express server for handling HTTP requests and Xamarin.Forms",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
