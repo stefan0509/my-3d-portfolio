@@ -1,6 +1,6 @@
 # Modern 3D Next.js Software Portfolio
 
-<div align="center">
+<div>
   <br />
     <a>
       <img src="https://repository-images.githubusercontent.com/799975430/49aaeb67-e194-422b-a334-57dbb8bf83fd" alt="Project Banner">
