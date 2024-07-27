@@ -246,13 +246,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    url:'https://github.com/RayMoham'
   },
   {
     id: 3,
     img: "/link.svg",
-  },
+    url:'https://www.linkedin.com/in/rayan-kaleem-mohammed-75a224243/'
+  }
 ];
