@@ -1,3 +1,5 @@
+# Modern 3D Next.js Software Portfolio
+
 <div align="center">
   <br />
     <a>
@@ -12,12 +14,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Modern 3D Next.js Software Portfolio</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -27,30 +23,23 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Code to Copy](#snippets)
 6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/FTH6Dn3AyIQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
+Built with Next.js, this software portfolio showcases the developer's expertise through a seamless and responsive user interface. Three.js is utilized to render stunning 3D elements, bringing an engaging and interactive dimension to the portfolio. The inclusion of Framer Motion enhances the user experience with fluid and visually captivating animations that guide visitors through the content with ease. Styled using TailwindCSS, the portfolio ensures a modern, clean, and highly customizable design that adapts effortlessly to various screen sizes. Together, these technologies create a dynamic and memorable presentation of the developer’s skills and projects, leaving a lasting impression on potential clients and employers.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Three.js
-- Framer Motion
-- Tailwind CSS
+- **Next.js**: Powers the project with efficient server-side rendering and static site generation, ensuring fast load times and a smooth user experience across all features.
+
+- **Three.js**: Enables the creation of engaging interactive 3D elements, like the GitHub-style globe and card hover effects, adding a dynamic visual layer to the portfolio.
+
+- **Framer Motion**: Brings life to the user interface with fluid animations and transitions, enhancing the interactivity and appeal of features like the testimonials and hero section.
+
+- **Tailwind CSS**: Provides a utility-first approach for styling, ensuring a consistent and modern design across features like the Bento Grid and canvas effects, with seamless responsiveness on all devices.
+
 
 ## <a name="features">🔋 Features</a>
 
@@ -70,7 +59,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🤸 Quick Start Installation</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -85,7 +74,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
+git clone https://github.com/RayMoham/3D-Software-Dev-Portfolio.git
 cd portfolio
 ```
 
@@ -661,25 +650,3 @@ style={{
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
