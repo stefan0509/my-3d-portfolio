@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Stefan Varava, a Software Developer based in Canada.
+            Hi! I&apos;m Stefan Varava, a Software Developer based in Romania.
           </p>
 
           <a href="#about">
