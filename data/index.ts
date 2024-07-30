@@ -2,7 +2,6 @@ export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
-  { name: "Contact", link: "#contact" },
 ];
 
 export const gridItems = [
@@ -49,7 +48,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Data Analysis Web scraping tool (OAuth 2 verification)",
+    title:
+      "Currently building a Data Analysis Web scraping tool (OAuth 2 verification)",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -94,7 +94,7 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
-  
+
   {
     id: 3,
     title: "Medical Pager Chat App - with Authentication and SMS Notifications",
@@ -119,35 +119,33 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
- 
 ];
 
 export const testimonials = [
   {
     quote:
-      "Rayan was quick to learn our technology stack on the job, and could be counted on to deliver quality contributions to our project. He collaborated closely with his peers, working through problems and testing approaches to build innovative and intuitive solutions.",
+      "Stefan was quick to learn our technology stack on the job, and could be counted on to deliver quality contributions to our project. He collaborated closely with his peers, working through problems and testing approaches to build innovative and intuitive solutions.",
     name: "Kris Wright",
     title: "Strategic Advisor - Digital Innnovations",
   },
   {
     quote:
-      "Rayan is an exceptional backend developer who had no prior experience with Node.js or SQL when he first joined our team. Despite this, he quickly proved himself to be an extremely talented developer with an incredible aptitude for these technologies.Throughout our time working together, Rayan consistently impressed us with his ability to write efficient Node.js endpoints and optimized SQL queries. His dedication to his craft and meticulous attention to detail is unparalleled, making him a valuable asset to any development team.",
+      "Stefan is an exceptional backend developer who had no prior experience with Node.js or SQL when he first joined our team. Despite this, he quickly proved himself to be an extremely talented developer with an incredible aptitude for these technologies.Throughout our time working together, Stefan consistently impressed us with his ability to write efficient Node.js endpoints and optimized SQL queries. His dedication to his craft and meticulous attention to detail is unparalleled, making him a valuable asset to any development team.",
     name: "Kavin Gnanapandithan",
     title: "Software Developer - Worked in same team ",
   },
   {
     quote:
-      "What sets Rayan apart from others is his ability to quickly learn and apply new skills. Despite being completely new to Node.js and SQL, he was able to write scalable and maintainable backend systems that were critical to the success of our web applications. Rayan's ability to take complex requirements and break them down into manageable tasks was particularly impressive, enabling us to complete projects on time and within budget. Rayan's passion for backend development is evident in the quality of his work. He is always up to date with the latest technologies and techniques, and his enthusiasm for learning and improving is contagious. His dedication to writing clean and concise code is an inspiration to others on the team.",
+      "What sets Stefan apart from others is his ability to quickly learn and apply new skills. Despite being completely new to Node.js and SQL, he was able to write scalable and maintainable backend systems that were critical to the success of our web applications. Stefan's ability to take complex requirements and break them down into manageable tasks was particularly impressive, enabling us to complete projects on time and within budget. Stefan's passion for backend development is evident in the quality of his work. He is always up to date with the latest technologies and techniques, and his enthusiasm for learning and improving is contagious. His dedication to writing clean and concise code is an inspiration to others on the team.",
     name: "Don Jalali",
     title: "Senior Systems Developer - TTC",
   },
   {
     quote:
-      "Collaborating with Rayan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rayan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rayan is the ideal partner.",
+      "Collaborating with Stefan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. stefan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, stefan is the ideal partner.",
     name: "Salene Xu",
     title: "Illuminate Universe - Student Project Director",
   },
- 
 ];
 
 export const companies = [
@@ -175,8 +173,8 @@ export const companies = [
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
-  
-   {
+
+  {
     id: 2,
     name: "FINTRAC",
     img: "https://media.licdn.com/dms/image/C4E0BAQHEisW_oVmuRw/company-logo_200_200/0/1633618666213/fintrac_canafe_logo?e=2147483647&v=beta&t=BdLz_noGsyXkPWSaAhouFA0KQX8EUPMyV0G7OoKcILI",
@@ -188,15 +186,14 @@ export const companies = [
     img: "https://media.licdn.com/dms/image/D4D0BAQFM2yEFiYZfew/company-logo_200_200/0/1710708108304/radicalai_li_logo?e=1729728000&v=beta&t=6rSLHoH_ZfkkPvXkKoFeHsoHKWpGcRgYksW0kRA9mxc",
     nameImg: "/Radical.svg",
   },
-  
 
-   {
+  {
     id: 5,
     name: "Illuminate Universe",
     img: "https://media.licdn.com/dms/image/C560BAQGbYgItoGiaBw/company-logo_100_100/0/1630647802769/illuminateuniverse_logo?e=1729728000&v=beta&t=NhEdpvhcFTr-Z8Enq6EEJKsGRzBvSLPWMNthJuj1Aj8",
     nameImg: "/illuminate.svg",
   },
-   {
+  {
     id: 2,
     name: "TTC",
     img: "https://banner2.cleanpng.com/20180823/oot/kisspng-toronto-transit-commission-rapid-transit-toronto-s-ttc-logo-svg-vector-amp-png-transparent-vector-5b7e8b8db19cc3.6340841915350199177275.jpg",
@@ -246,11 +243,6 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    url:'https://github.com/RayMoham'
+    url: "https://github.com/stefan0509",
   },
-  {
-    id: 3,
-    img: "/link.svg",
-    url:'https://www.linkedin.com/in/rayan-kaleem-mohammed-75a224243/'
-  }
 ];
